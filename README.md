@@ -2,7 +2,7 @@
 
 You have previously worked on a project with a list of 10 technology quotes, using ScrollView to display them. In this project, you will use FlatList to display those quotes, with a separator between elements of the list. The separator is discussed in the previous page in Canvas named "FlatList Introduction" -- it is another prop of the FlatList component.
 
-You may find useful reference for FlatList components at https://www.waldo.com/blog/react-native-flatlist/Links to an external site. or https://blog.logrocket.com/deep-dive-react-native-flatlist/Links to an external site.
+You may find useful reference for FlatList components at https://www.waldo.com/blog/react-native-flatlist/ or https://blog.logrocket.com/deep-dive-react-native-flatlist/
 
 As in the ScrollView project, this project displays 10 technology quotes. You may want to create a copy of the ScrollView project -- it is easy to convert from ScrollView to FlatList. As in the previous project, you may look up quotes, or use the ones shown in the example. Create an array of objects, each with an "id" or "key" element, a "quote" element for the text of the quote, and an "author" element. The "id" is a string for values "1", "2", "3", and so on.
 
