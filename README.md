@@ -16,9 +16,9 @@ You have already established the style of the list in the ScrollView version. Ch
 
 https://reactnative.dev/docs/environment-setup
 
-![p]()
+![p](https://github.com/bell-kevin/techQuotesWithFlatList/blob/main/screenshots/1.PNG)
 
-![p]()
+![p](https://github.com/bell-kevin/techQuotesWithFlatList/blob/main/screenshots/2.PNG)
 
 ## Storing Projects 
 
